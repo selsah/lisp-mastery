@@ -1,3 +1,6 @@
+;;;;;play a game of tic tac toe with computer that has knowledge of basic strategy
+
+
 (defparameter *board* (list 'board 0 0 0 0 0 0 0 0 0))
 
 ;converts binary symbol into eith an "x" or "o" to be printed
